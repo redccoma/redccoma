@@ -10,12 +10,21 @@
 - Unity4, Unity5, Unity2019, Unity2020
 - 2D, Data Struct
 
-### Using Lib
+### Using Lib (for Unity)
+- NGUI
 - Facebook SDK
 - Firebase SDK
 - Google Play Game Service
 - Google Signin
-- ...updating
+- Google Mobile Ads
+- AVPro
+- LIAPP
+- Ultimate Mobile
+- Tapjoy
+
+### ETC Keywords
+- Multi Dex, GCM, FCM, INAPP, 
+
 ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redccoma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
