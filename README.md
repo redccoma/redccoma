@@ -2,9 +2,12 @@
 
 ### Unity Engine
 - Unity4, Unity5, Unity2019, Unity2020
+- C#
 - Android, iOS Platform
-- 2D, Data Struct..
+- 2D, Data Struct
 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redccoma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redccoma&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ---
