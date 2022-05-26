@@ -23,11 +23,7 @@
 - Tapjoy
 
 ### ETC Keywords
-- Multi Dex, GCM, FCM, INAPP, 
-
-### 참고사이트
-- Github SSH 설정 (https://www.lainyzine.com/ko/article/creating-ssh-key-for-github/)
-- 멀티계정 사용할때 SSH 설정 (https://www.lainyzine.com/ko/article/useful-git-settings-when-using-github-multi-account/)
+- Multi Dex, GCM, FCM, INAPP
 
 ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redccoma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
