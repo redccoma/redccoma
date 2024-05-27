@@ -3,6 +3,7 @@
 ### Language
 - C#
 - java
+- Python
 
 ### Unity Engine
 - Mobile Client(Android, iOS)
